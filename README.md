@@ -33,7 +33,7 @@ This project analyzes global COVID-19 trends, including cases, deaths, and vacci
 4. Run all cells (from top to bottom)
 
 Download dataset:  
-[owid-covid-data.csv](https://covid.ourworldindata.org/data/owid-covid-data.csv)
+https://covid.ourworldindata.org/data/owid-covid-data.csv
 
 ---
 
